@@ -14,8 +14,9 @@ I'm currently building a strong foundation in programming, algorithms, software 
 ---
 
 ## 🛠 Skills (So Far)
+
 **Languages:**  
-`Python` `Java` `Lua` 
+`Python` `Java` `Lua`  
 
 **Tools & Technologies:**  
 `Git` `GitHub` `Linux` `VS Code`  
@@ -23,15 +24,17 @@ I'm currently building a strong foundation in programming, algorithms, software 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=probsyash&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=probsyash)
 
-## 🔤 Top Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=probsyash)
-
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=probsyash&show_icons=true&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=probsyash&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashaskar-karmacharya)  
+## 🔤 Top Languages
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=probsyash&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashaskar-karmacharya)
