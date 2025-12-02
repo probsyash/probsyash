@@ -23,10 +23,12 @@ I'm currently building a strong foundation in programming, algorithms, software 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=probsyash&show_icons=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=probsyash&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=probsyash)
 
 ## 🔤 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probsyash)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=probsyash)
+
 
 ---
 
