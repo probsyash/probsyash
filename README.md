@@ -5,10 +5,10 @@ I'm currently building a strong foundation in programming, algorithms, software 
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🎓 **BSc Computer Science with a Year in Industry @ QMUL**
-- 💼 Interested in **software engineering**, **AI/ML**, and **full-stack development**
-- 📚 Currently learning **Java**, **Python**, **C**, data structures, and algorithms
+- 💼 Interested in **software engineering**, **game development**, and **full-stack development**
+- 📚 Currently learning **Java**, **Python**, **Lua**, and **C**
 - 🤝 Open to collaborations on uni-level CS projects
 
 ---
