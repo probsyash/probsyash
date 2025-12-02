@@ -15,24 +15,25 @@ I'm currently building a strong foundation in programming, algorithms, software 
 
 ## 🛠 Skills (So Far)
 
-**Languages:**  
-`Python` `Java` `Lua`  
+**Languages:** `Python` `Java` `Lua`
 
-**Tools & Technologies:**  
-`Git` `GitHub` `Linux` `VS Code`  
+**Tools & Technologies:** `Git` `GitHub` `Linux` `VS Code`  
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=probsyash" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=probsyash&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  
   <img src="https://streak-stats.demolab.com/?user=probsyash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 ---
 
 ## 🔤 Top Languages
 <p align="center">
-  <img src="https://github-lang-stats.herokuapp.com/api?username=probsyash&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probsyash&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
