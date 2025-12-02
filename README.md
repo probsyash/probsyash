@@ -32,7 +32,7 @@ I'm currently building a strong foundation in programming, algorithms, software 
 
 ## 🔤 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=probsyash" alt="Top Languages" />
+  <img src="https://github-lang-stats.herokuapp.com/api?username=probsyash&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
