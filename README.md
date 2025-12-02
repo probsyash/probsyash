@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Yash 👋
 
-<!--
-**probsyash/probsyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year **Computer Science student at Queen Mary University of London (QMUL)**, studying **CS with a Year in Industry**.  
+I'm currently building a strong foundation in programming, algorithms, software engineering, and maths — and developing projects to prepare for industry placements.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 **BSc Computer Science with a Year in Industry @ QMUL**
+- 💼 Interested in **software engineering**, **AI/ML**, and **full-stack development**
+- 📚 Currently learning **Java**, **Python**, **C**, data structures, and algorithms
+- 🤝 Open to collaborations on uni-level CS projects
+
+---
+
+## 🛠 Skills (So Far)
+**Languages:**  
+`Python` `Java` `Lua` 
+
+**Tools & Technologies:**  
+`Git` `GitHub` `Linux` `VS Code`  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=probsyash&show_icons=true)
+
+## 🔤 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=probsyash)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashaskar-karmacharya)  
+
