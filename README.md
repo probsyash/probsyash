@@ -9,7 +9,7 @@ I'm currently building a strong foundation in programming, algorithms, software 
 
 - 🎓 **BSc Computer Science with a Year in Industry @ QMUL**  
 - 💼 Interested in **software engineering**, **game development**, and **full-stack development**  
-- 📚 Currently learning **Java**, **Python**, and **Lua**  
+- 📚 Currently learning **Java**, **Python**, **HTML**, **CSS**, and **Javascript**  
 - 🤝 Open to collaborations on uni-level CS projects  
 
 ---
