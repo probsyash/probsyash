@@ -28,9 +28,6 @@ I'm currently building a strong foundation in programming, algorithms, software 
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=probsyash&show_icons=true&theme=midnight-purple&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=probsyash&layout=compact&theme=midnight-purple&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=probsyash&theme=github-dark&ring=9826EB&fire=9826EB&currStreakLabel=9826EB&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&sideLabels=9826EB&stroke=9826EB&border=9826EB)](https://git.io/streak-stats)
 </div>
   
