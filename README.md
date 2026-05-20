@@ -28,13 +28,9 @@ I'm currently building a strong foundation in programming, algorithms, software 
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=probsyash&theme=midnight-purple&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=probsyash&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=probsyash&theme=midnight-purple&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=probsyash&show_icons=true&theme=midnight-purple&hide_border=true)
 
-![](https://github-contributor-stats.vercel.app/api?username=probsyash&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=probsyash&layout=compact&theme=midnight-purple&hide_border=true)
 
 </div>
-
-<div align="center">
   
