@@ -4,7 +4,7 @@
 
 </div>
 
-I'm a first-year **Computer Science student at Queen Mary University of London (QMUL)**, studying **CS with a Year in Industry**.  
+I'm a second-year **Computer Science student at Queen Mary University of London (QMUL)**, studying **CS with a Year in Industry**.  
 I'm currently building a strong foundation in programming, algorithms, software engineering, and maths — and developing projects to prepare for industry placements.
 
 - 🎓 **BSc Computer Science with a Year in Industry @ QMUL**  
